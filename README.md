@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Pacman Factory
 
-You can use the [editor on GitHub](https://github.com/pamelaarcher/movingeyes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Table of content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Description](#description)
+- [How to Run the Application](#howtorun)
+- [Roadmap of Future Improvements](#roadmap)
+- [License](#license)
+- [Demo](#demo)
 
-### Markdown
+## Description
+This project creates two eyes and eyeballs that follow the mouse movement around the screen.  It defines both the eye and eyeball as classes that are then used by the javascript to check for a mouse move and based on the location of the mouse, moves the eyeballs in the same direction.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="./images/RovingEyes.png">
 
-```markdown
-Syntax highlighted code block
+## Setting Up and Running The Application
 
-# Header 1
-## Header 2
-### Header 3
+### About
+This application is made up of 3 main files
+  - <b>styles.css</b> which includes the classes to define the eyes and the eyeball.
+  - <b>index.html</b> which creates the divs for the for the eyes and the eyeball.  
+  - <b>eyes.js</b> which checks for the on mouse move event and based on its location,  moves the eyeball positions in the same direction
 
-- Bulleted
-- List
+### Running the Application
+ (1) You can download these 3 files to a directory on your local drive.  Once installed in a directory, run the index.html file from a new web page OR you can run the application direct from github from the link, https://pamelaarcher.github.io/movingeyes/
+ (2) Move your mouse pointer around on the screen and see the eyes move toward the mouse location
+ 
+## Roadmap of Future Improvements
+ (1) Put the eyes into an image such as a person or animal
 
-1. Numbered
-2. List
+## License
 
-**Bold** and _Italic_ and `Code` text
+MIT License
 
-[Link](url) and ![Image](src)
-```
+Copyright (c) 2022
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-### Jekyll Themes
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pamelaarcher/movingeyes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Demo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Pacman Factory Demo](https://pamelaarcher.github.io/addpacmen)
