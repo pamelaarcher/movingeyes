@@ -11,7 +11,7 @@
 ## Description
 This project creates two eyes and eyeballs that follow the mouse movement around the screen.  It defines both the eye and eyeball as classes that are then used by the javascript to check for a mouse move and based on the location of the mouse, moves the eyeballs in the same direction.
 
-<img src="./images/RovingEyes.png">
+<img src="./Images/RovingEyes.png">
 
 ## Setting Up and Running The Application
 
