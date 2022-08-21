@@ -22,7 +22,7 @@ This application is made up of 3 main files
   - <b>eyes.js</b> which checks for the on mouse move event and based on its location,  moves the eyeball positions in the same direction
 
 ### Running the Application
- (1) You can download these 3 files to a directory on your local drive.  Once installed in a directory, run the index.html file from a new web page OR you can run the application direct from github from the link, https://pamelaarcher.github.io/movingeyes/
+ (1) You can download these 3 files to a directory on your local drive.  Once installed in a directory, run the index.html file from a new web page OR you can run the application direct from github from the link, https://pamelaarcher.github.io/movingeyes/  <br />
  (2) Move your mouse pointer around on the screen and see the eyes move toward the mouse location
  
 ## Roadmap of Future Improvements
