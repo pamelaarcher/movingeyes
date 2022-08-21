@@ -42,4 +42,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Demo
 
-* [Pacman Factory Demo](https://pamelaarcher.github.io/addpacmen)
+* [Moving Eyes Demo](https://pamelaarcher.github.io/movingeyes)
