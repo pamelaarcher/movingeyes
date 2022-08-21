@@ -1,4 +1,4 @@
-# Pacman Factory
+# Moving Eyes
 
 ## Table of content
 
